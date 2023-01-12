@@ -7,7 +7,7 @@
   <br/>
   <br/>
   
-  <p>The Emerging UI Component library for <b>Vue 2.x</b> & <b>Vue 3.x</b></p>
+  <p>The Emerging UI Component library for <b>Vue 2.x</b> & <b>Vue 3.x.</b></p>
  
   <a href="https://github.com/lightvue/lightvue/graphs/contributors">
     <img alt="Contributors" src="https://img.shields.io/github/contributors/lightvue/lightvue?color=269286" />
